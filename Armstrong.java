@@ -17,3 +17,5 @@ class Main{
         System.out.println(Armstrong(9474));
     }
 }
+
+// Clean and Safe Approach
