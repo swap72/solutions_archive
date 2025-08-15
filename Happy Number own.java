@@ -18,3 +18,9 @@ public class Main{
     }
 }
 
+/*
+The logical && AND operator always short-circuits 
+because false && anything will be false anywhich ways
+
+so if we reach 1 then it is enough that's all we need
+*/
