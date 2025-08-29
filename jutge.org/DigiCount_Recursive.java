@@ -23,4 +23,6 @@ public class Main {
 
 jutge.org has very strict judging constraints and also hidden test cases
 
+can also use BigInteger for edge cases
+
 */
