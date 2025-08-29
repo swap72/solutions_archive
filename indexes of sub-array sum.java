@@ -32,6 +32,12 @@ class Main {
 
 /*
 
+Note : This problem is using dynamic sliding window instead of fixed-length sliding window
+
+
+
+Question :
+
 Given an array arr[] containing only non-negative integers, 
 your task is to find a continuous subarray (a contiguous sequence of elements) whose sum equals a specified value target. 
 You need to return the 1-based indices of the leftmost and rightmost elements of this subarray. 
